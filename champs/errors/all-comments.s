@@ -1,0 +1,13 @@
+.name "all comments"
+.comment ""
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
